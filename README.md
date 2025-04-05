@@ -50,8 +50,7 @@ Exporting the trained model using joblib
 
 How to Run
 Clone this repository-
-git clone https://github.com/your-username/bluebook-bulldozer-price-prediction.git
-cd bluebook-bulldozer-price-prediction
+git clone https://github.com/aryans312/bulldozerpriceprediction
 
 Install dependencies-
 pip install -r requirements.txt
